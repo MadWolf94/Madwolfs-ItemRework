@@ -1,0 +1,234 @@
+                                        /////////////////////////////////////////////////
+                                        /// Change -1 to 100, to allow Selling
+                                        ///////////////////////////////////////////////// 
+<Category> MW Medicbags
+    MW_MedicBag_Snow,              *,          30,       -1
+    MW_MedicBag_Tango,             *,          30,       -1
+    MW_MedicBag_BlackHex,          *,          30,       -1
+    MW_MedicBag_Purple,            *,          30,       -1
+    MW_MedicBag_BlackLeather,      *,          30,       -1
+    MW_MedicBag_BabyBlue,          *,          30,       -1
+    MW_MedicBag_Gold,              *,          30,       -1
+    MW_MedicBag_Greencamo,         *,          30,       -1
+    MW_MedicBag_Greendark,         *,          30,       -1
+    MW_MedicBag_Blacktee,          *,          30,       -1
+   //Personalised
+    MW_MedicBag_Fallen,            *,          30,       -1
+
+<Category> Custom Gear 
+    //HuntingJacket
+    MW_Taffy_HuntingJacket,         *,          300,       -1
+    MW_DZS_HuntingJacket,           *,          300,       -1
+    //HuntingPants
+    MW_HunterPants,                 *,          300,       -1
+    MW_HunterPants_DZS,             *,          300,       -1
+
+<Category> MW NBC Gear    
+    //NBC Honeycome
+    MW_NBC_Hood,                        *,          500,       -1
+    MW_NBC_Jacket,                      *,          500,       -1
+    MW_NBC_Gloves,                      *,          500,       -1
+    MW_NBC_Pants,                       *,          500,       -1
+    MW_NBC_Boots,                       *,          500,       -1
+    //NBC Pink Diamonds
+    MW_JG_NBC_Hood,                     *,          500,       -1
+    MW_JG_NBC_Jacket,                   *,          500,       -1
+    MW_JG_NBC_Gloves,                   *,          500,       -1
+    MW_JG_NBC_Pants,                    *,          500,       -1
+    MW_JG_NBC_Boots,                    *,          500,       -1
+    //NBC BEAR  
+    MW_NBC_BearHood,                    *,          500,       -1
+    MW_NBC_BearJacket,                  *,          500,       -1
+    MW_NBC_BearGloves,                  *,          500,       -1
+    MW_NBC_BearPants,                   *,          500,       -1
+    MW_NBC_BearBoots,                   *,          500,       -1
+    //NBC Camo  
+    MW_NBC_CamoHood,                    *,          500,       -1
+    MW_NBC_CamoJacket,                  *,          500,       -1
+    MW_NBC_CamoGloves,                  *,          500,       -1
+    MW_NBC_CamoPants,                   *,          500,       -1
+    MW_NBC_CamoBoots,                   *,          500,       -1
+    //NBC Radio 
+    MW_NBC_RadioHood,                   *,          500,       -1
+    MW_NBC_RadioJacket,                 *,          500,       -1
+    MW_NBC_RadioGloves,                 *,          500,       -1
+    MW_NBC_RadioPants,                  *,          500,       -1
+    MW_NBC_RadioBoots,                  *,          500,       -1
+    //BlueFire  
+    MW_NBC_BlueFireHood,                *,          500,       -1
+    MW_NBC_BlueFireJacket,              *,          500,       -1
+    MW_NBC_BlueFireGloves,              *,          500,       -1
+    MW_NBC_BlueFirePants,               *,          500,       -1
+    MW_NBC_BlueFireBoots,               *,          500,       -1
+    //PurpleFire        
+    MW_NBC_PurpleFireHood,              *,          500,       -1
+    MW_NBC_PurpleFireJacket,            *,          500,       -1
+    MW_NBC_PurpleFireGloves,            *,          500,       -1
+    MW_NBC_PurpleFirePants,             *,          500,       -1
+    MW_NBC_PurpleFireBoots,             *,          500,       -1
+    //DragpnBallz       
+    MW_NBC_DragonballzHood,             *,          500,       -1
+    MW_NBC_DragonballzJacket,           *,          500,       -1
+    MW_NBC_DragpnballzGloves,           *,          500,       -1
+    MW_NBC_DragpnballzPants,            *,          500,       -1
+    MW_NBC_DragpnballzBoots,            *,          500,       -1
+    //Barbie    
+    MW_NBC_BarbieHood,                  *,          500,       -1
+    MW_NBC_BarbieJacket,                *,          500,       -1
+    MW_NBC_BarbieGloves,                *,          500,       -1
+    MW_NBC_BarbiePants,                 *,          500,       -1
+    MW_NBC_BarbieBoots,                 *,          500,       -1
+    //Splash    
+    MW_NBC_SplashHood,                  *,          500,       -1
+    MW_NBC_SplashJacket,                *,          500,       -1
+    MW_NBC_SplashGloves,                *,          500,       -1
+    MW_NBC_SplashPants,                 *,          500,       -1
+    MW_NBC_SplashBoots,                 *,          500,       -1
+    //Camo2     
+    MW_NBC_Camo2Hood,                   *,          500,       -1
+    MW_NBC_Camo2Jacket,                 *,          500,       -1
+    MW_NBC_Camo2Gloves,                 *,          500,       -1
+    MW_NBC_Camo2Pants,                  *,          500,       -1
+    MW_NBC_Camo2Boots,                  *,          500,       -1
+    //Wolf      
+    MW_NBC_WolfHood,                    *,          500,       -1
+    MW_NBC_WolfJacket,                  *,          500,       -1
+    MW_NBC_WolfGloves,                  *,          500,       -1
+    MW_NBC_WolfPants,                   *,          500,       -1
+    MW_NBC_WolfBoots,                   *,          500,       -1
+
+<Category> MW Plate Carrier Sets
+    ///Plate Carrier Green
+    MW_PlateCarrierVest,                *,          1500,       -1
+    MW_Pouches,                         *,          1250,       -1
+    MW_Holster,                         *,          500,       -1
+    ///Plate carrier TwigPink
+    MW_TwigPink_PlateCarrier,           *,          1500,       -1
+    MW_TwigPink_Pouches,                *,          1250,       -1
+    MW_TwigPink_Holster,                *,          500,       -1
+    ///Plate carrier CyanWeb
+    MW_CyanWeb_PlateCarrier,            *,          1500,       -1
+    MW_CyanWeb_Pouches,                 *,          1250,       -1
+    MW_CyanWeb_Holster,                 *,          500,       -1
+    ///Plate carrier CamoRed
+    MW_CamoRed_PlateCarrier,            *,          1500,       -1
+    MW_CamoRed_Pouches,                 *,          1250,       -1
+    MW_CamoRed_Holster,                 *,          500,       -1
+    ///Plate carrier CamoBlack
+    MW_CamoBlack_PlateCarrier,          *,          1500,       -1
+    MW_CamoBlack_Pouches,               *,          1250,       -1
+    MW_CamoBlack_Holster,               *,          500,       -1
+    ///Plate carrier CamoSnow
+    MW_CamoSnow_PlateCarrier,           *,          1500,       -1
+    MW_CamoSnow_Pouches,                *,          1250,       -1
+    MW_CamoSnow_Holster,                *,          500,       -1
+    ///Plate carrier GoldHex
+    MW_GoldHex_PlateCarrier,            *,          1500,       -1
+    MW_GoldHex_Pouches,                 *,          1250,       -1
+    MW_GoldHex_Holster,                 *,          500,       -1
+    ///Plate carrier BlackDiamond 
+    MW_BlackDiamond_PlateCarrier,       *,          1500,       -1
+    MW_BlackDiamond_Pouches,            *,          1250,       -1
+    MW_BlackDiamond_Holster,            *,          500,       -1
+    ///Plate carrier Bear
+    MW_Bear_PlateCarrier,               *,          1500,       -1
+    MW_Bear_Pouches,                    *,          1250,       -1
+    MW_Bear_Holster,                    *,          500,       -1
+    ///Plate carrier Radio
+    MW_Radio_PlateCarrier,              *,          1500,       -1
+    MW_Radio_Pouches,                   *,          1250,       -1
+    MW_Radio_Holster,                   *,          500,       -1
+    ///Plate carrier Barbie
+    MW_Barbie_PlateCarrier,             *,          1500,       -1
+    MW_Barbie_Pouches,                  *,          1250,       -1
+    MW_Barbie_Holster,                  *,          500,       -1
+    ///Plate carrier PurpleFire
+    MW_PurpleFire_PlateCarrier,         *,          1500,       -1
+    MW_PurpleFire_Pouches,              *,          1250,       -1
+    MW_PurpleFire_Holster,              *,          500,       -1
+    ///Plate carrier Splash 
+    MW_Splash_PlateCarrier,             *,          1500,       -1
+    MW_Splash_Pouches,                  *,          1250,       -1
+    MW_Splash_Holster,                  *,          500,       -1
+    ///Plate carrier Camo2
+    MW_Camo2_PlateCarrier,              *,          1500,       -1
+    MW_Camo2_Pouches,                   *,          1250,       -1
+    MW_Camo2_Holster,                   *,          500,       -1
+    ///Plate carrier Wolf
+    MW_Wolf_PlateCarrier,               *,          1500,       -1
+    MW_Wolf_Pouches,                    *,          1250,       -1
+    MW_Wolf_Holster,                    *,          500,       -1
+    ///Plate carrier Dragonballz
+    MW_Dragonballz_PlateCarrier,        *,          1500,       -1
+    MW_Dragonballz_Pouches,             *,          1250,       -1
+    MW_Dragonballz_Holster,             *,          500,       -1
+
+<Category> MW Base Flags
+    MW_SteepThat_Flag,                 *,          250,       -1
+    MW_Texas_Flag,                     *,          250,       -1
+    MW_Welsh_Flag,                     *,          250,       -1
+    MW_Scottish_Flag,                  *,          250,       -1
+    MW_Wolf1_Flag,                     *,          250,       -1
+    MW_Wolf2_Flag,                     *,          250,       -1
+    MW_Wolf3_Flag,                     *,          250,       -1
+    MW_Wolf4_Flag,                     *,          250,       -1
+    MW_Stalker_Flag,                   *,          250,       -1
+    MW_Zongy_Flag,                     *,          250,       -1 
+    MW_UK_Flag,                        *,          250,       -1  
+
+<Category> MW Tools 
+    MW_LongLife_Battery9V,             *,          1000,      400
+    MW_GearBelt,                       *,          2500,       -1
+    MW_Sheath_Green,                   *,          500,        -1
+    //Gearstand
+    GS_GearSTAND,                      *,          50000,     500
+    GS_HeadSTAND,                      *,          20000,     500
+    GS_FlagFRAME,                      *,          750,       500
+    GS_GunFRAME,                       *,          1250,      500
+    GS_MeleeFRAME,                     *,          1000,      500
+
+<Category> MW Bbp Addons
+    //BBP_Carpet
+    MW_Carpet_White_Bricks,         *,      500,        200   
+    MW_Carpet_Blue_Diamond,         *,      500,        200
+    MW_Carpet_Blue_Diamond_Plate,   *,      500,        200
+    MW_Carpet_Camo,                 *,      500,        200
+    MW_Carpet_Camo_Grey,            *,      500,        200
+    MW_Carpet_Camo_Orange,          *,      500,        200
+    MW_Carpet_Carpet_MetalHex,      *,      500,        200
+    MW_Carpet_GreenPatten,          *,      500,        200
+    MW_Carpet_Wood_Floor,           *,      500,        200
+    MW_Carpet_DarkGrey,             *,      500,        200
+    MW_Carpet_Diamond_Plate_Green,  *,      500,        200
+    MW_Carpet_Diamond_Plate_Steel,  *,      500,        200
+    MW_Carpet_Wood_triangles,       *,      500,        200
+    //BBP_WallPaper                 *,      500,        200
+    MW_WallPaper_ET_UFO,            *,      500,        200
+    MW_WallPaper_BobM,              *,      500,        200
+    MW_WallPaper_Dayz1,             *,      500,        200
+    MW_WallPaper_Dayz2,             *,      500,        200
+    MW_WallPaper_hellokitty1,       *,      500,        200
+    MW_WallPaper_hellokitty2,       *,      500,        200
+    MW_WallPaper_hellokitty3,       *,      500,        200
+    MW_WallPaper_LoneDk,            *,      500,        200
+    MW_WallPaper_Outrun,            *,      500,        200
+    MW_WallPaper_Wolf1,             *,      500,        200
+    MW_WallPaper_Wolf2,             *,      500,        200
+    MW_WallPaper_Wolf3,             *,      500,        200
+    MW_WallPaper_BlueLeaf,          *,      500,        200
+    MW_WallPaper_DarkWoods,         *,      500,        200
+    MW_WallPaper_Nightcity,         *,      500,        200
+    MW_WallPaper_Nightcity1,        *,      500,        200
+    MW_WallPaper_VibrantForest,     *,      500,        200
+
+<Category> MW Armbands
+    MW_Armband,                        *,          1650,       -1
+    Working on testing some new items, *,           -1         -1
+
+<Category> MW Medical Supplies
+    MW_Splint,                         *,        450,     200
+    MW_Bandage,                        *,        500,     220
+    MW_VitaminBottle,                  *,        4200,    2000
+    MW_Antibiotics,                    *,        5000,    2400
+    AntiChemInjector,                  *,        3500,    2000 
+    //MW_AntiChemInjector,             *,        3500,    2000               //WIP
