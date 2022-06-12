@@ -24,7 +24,7 @@ Things I Have Added
 ⚪ Custom Plate Carriers with [PSD's]                                   
 ⚪ Custom Bags only if ran with MSP [https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984&searchtext=MuchStuffPack]           
 ⚪ Custom Belt             
-⚪ Custom Hunter Jacket & Pants With [PSD's]
+⚪ Custom Hunter Jacket & Pants With [PSD's]                                  
 ⚪ Custom Billbord's [WIP]                                              
 ⚪ Custom Flags                                                             
 ⚪ Custom Longlife 9V            
