@@ -7,8 +7,7 @@
 Mostly c++ (Easy) 
 also have left some psd templates if you know what youre doing 
  
-This Pack has
-
+This Pack has                
 ⚫ TraderFixesAndFeatures        
 ⚫ dbo_surfaces                 
 ⚫ BulletStacks             
@@ -18,6 +17,18 @@ This Pack has
 ⚫ Gearstand                       
 ⚫ NoCarDamage                  
 ⚫ InventoryAcsessInCar                        
+
+Things I Have Added               
+⚪ Custom BBP Carpets and Wallpapers                                 
+⚪ Custom NBC Gear Sets                        
+⚪ Custom Plate Carriers with [PSD's]                                   
+⚪ Custom Bags only if ran with MSP [https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984&searchtext=MuchStuffPack]           
+⚪ Custom Belt             
+⚪ Custom Hunter Jacket & Pants With [PSD's]
+⚪ Custom Billbord's [WIP]                                              
+⚪ Custom Flags                                                             
+⚪ Custom Longlife 9V            
+⚪ Custom Admin Gear [invis]     
 
 Any Questions Or Suggestions Are Welcome
 If you would like to contact me my discord user ID is Andy-Wolf#8008
