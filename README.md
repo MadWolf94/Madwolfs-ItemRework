@@ -28,7 +28,8 @@ Things I Have Added
 ⚪ Custom Billbord's [WIP]                                              
 ⚪ Custom Flags                                                             
 ⚪ Custom Longlife 9V            
-⚪ Custom Admin Gear [invis]     
+⚪ Custom Admin Gear [invis]                                                
+⚪ Custom Medical Items ReTextured                  
 
 Any Questions Or Suggestions Are Welcome
 If you would like to contact me my discord user ID is Andy-Wolf#8008
