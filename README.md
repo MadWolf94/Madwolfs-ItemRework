@@ -17,6 +17,7 @@ This Pack has
 ⚫ Gearstand                       
 ⚫ NoCarDamage                  
 ⚫ InventoryAcsessInCar                        
+⚫ BuildEverywhere                     
 
 Things I Have Added               
 ⚪ Custom BBP Carpets and Wallpapers                                
