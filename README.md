@@ -22,7 +22,8 @@ Things I Have Added
 ⚪ Custom BBP Carpets and Wallpapers                                
 ⚪ Custom NBC Gear Sets [PSD's]                                   
 ⚪ Custom Plate Carriers with [PSD]                                   
-⚪ Custom Bags only if ran with MSP[https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984&searchtext=MuchStuffPack]           
+⚪ Custom Bags only if ran with MSP                      
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1991570984&searchtext=MuchStuffPack]           
 ⚪ Custom Belt [PSD]                             
 ⚪ Custom Hunter Jacket & Pants With [PSD's]                                  
 ⚪ Custom Billbord's [WIP]                                              
