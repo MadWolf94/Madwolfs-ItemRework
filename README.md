@@ -1,5 +1,5 @@
 ![download](https://user-images.githubusercontent.com/28143148/173253980-77f34102-4141-401f-8567-49aac01f8ffe.jpg)
-
+This is Obsolete PLease Pull From Steam Until i update here 
 
 # Madwolfs-ItemRework
  One Of My Dayz Sa Mods 
@@ -9,8 +9,7 @@ also have left some psd templates if you know what youre doing
  
 This Pack has                
 ⚫ TraderFixesAndFeatures        
-⚫ dbo_surfaces                 
-⚫ BulletStacks             
+⚫ dbo_surfaces                              
 ⚫ SchanaModCompass             
 ⚫ SchanaModGlobalChat	        
 ⚫ SchanaModParty              
@@ -30,7 +29,8 @@ Things I Have Added
  ⚪ Custom Flags [PSD's]                                                                              
  ⚪ Custom Longlife 9V                       
  ⚪ Custom Admin Gear [invis]                                                
- ⚪ Custom Medical Items ReTextured                  
+ ⚪ Custom Medical Items ReTextured 
+ ⚪ BulletStacks                 
 
 Any Questions Or Suggestions Are Welcome
 If you would like to contact me my discord user ID is Andy-Wolf#8008
